@@ -1,0 +1,20 @@
+{
+  "name": "AccountService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
